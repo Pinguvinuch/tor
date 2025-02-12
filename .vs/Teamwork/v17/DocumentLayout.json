@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\777\\source\\repos\\Teamwork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0C988C-4B49-4DBA-AD78-1A9275638F11}|Teamwork\\Teamwork.csproj|c:\\users\\777\\source\\repos\\teamwork\\teamwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0C988C-4B49-4DBA-AD78-1A9275638F11}|Teamwork\\Teamwork.csproj|solutionrelative:teamwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\777\\source\\repos\\Teamwork\\Teamwork\\Program.cs",
+              "RelativeDocumentMoniker": "Teamwork\\Program.cs",
+              "ToolTip": "C:\\Users\\777\\source\\repos\\Teamwork\\Teamwork\\Program.cs",
+              "RelativeToolTip": "Teamwork\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:09:10.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
