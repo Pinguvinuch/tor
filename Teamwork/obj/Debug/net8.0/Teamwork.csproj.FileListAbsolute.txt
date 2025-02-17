@@ -1,0 +1,15 @@
+C:\Users\777\source\repos\Teamwork\Teamwork\obj\Debug\net8.0\Teamwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\777\source\repos\Teamwork\Teamwork\obj\Debug\net8.0\Teamwork.AssemblyInfoInputs.cache
+C:\Users\777\source\repos\Teamwork\Teamwork\obj\Debug\net8.0\Teamwork.AssemblyInfo.cs
+C:\Users\777\source\repos\Teamwork\Teamwork\obj\Debug\net8.0\Teamwork.csproj.CoreCompileInputs.cache
+C:\Users\777\source\repos\Teamwork\Teamwork\obj\Debug\net8.0\Teamwork.sourcelink.json
+C:\Users\777\source\repos\Teamwork\Teamwork\bin\Debug\net8.0\Teamwork.exe
+C:\Users\777\source\repos\Teamwork\Teamwork\bin\Debug\net8.0\Teamwork.deps.json
+C:\Users\777\source\repos\Teamwork\Teamwork\bin\Debug\net8.0\Teamwork.runtimeconfig.json
+C:\Users\777\source\repos\Teamwork\Teamwork\bin\Debug\net8.0\Teamwork.dll
+C:\Users\777\source\repos\Teamwork\Teamwork\bin\Debug\net8.0\Teamwork.pdb
+C:\Users\777\source\repos\Teamwork\Teamwork\obj\Debug\net8.0\Teamwork.dll
+C:\Users\777\source\repos\Teamwork\Teamwork\obj\Debug\net8.0\refint\Teamwork.dll
+C:\Users\777\source\repos\Teamwork\Teamwork\obj\Debug\net8.0\Teamwork.pdb
+C:\Users\777\source\repos\Teamwork\Teamwork\obj\Debug\net8.0\Teamwork.genruntimeconfig.cache
+C:\Users\777\source\repos\Teamwork\Teamwork\obj\Debug\net8.0\ref\Teamwork.dll
