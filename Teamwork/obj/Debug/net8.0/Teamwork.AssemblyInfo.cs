@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Teamwork")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01e1ae438214459193a82131c19fc6ef5c1f7ce6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0176ac0bc63bd017d2dd03c5169afd892be0d7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Teamwork")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Teamwork")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
